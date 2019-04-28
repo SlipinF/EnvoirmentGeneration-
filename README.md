@@ -1,7 +1,8 @@
 # EnvoirmentGeneration-
 Kacper Duda
 
-Generation of environment on procedurally generated meshes.It can be used with any number of asset combination by simply creating new scriptable object. [Unity]
+Generation of environment on procedurally generated meshes.It can be used with any number of asset combination by simply 
+creating new scriptable object. [Unity]
 
 What i Learned
 
