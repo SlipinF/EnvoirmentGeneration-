@@ -7,8 +7,11 @@ creating new scriptable object. [Unity]
 What i Learned
 
 • Multithreaded operations in unity.
+
 • Principles of procedural mesh generation (vertices manipulation)
+
 • I expanded my knowledge on code optimization
+
 • Poison sampling method for object generation
 
 Credits
