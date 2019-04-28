@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_GeneratorAsset: {fileID: 0}
+  m_Script: {fileID: 11500000, guid: bf91fc8b9645beb4a819d922059442ef, type: 3}
+  m_Name: Crystal
+  m_EditorClassIdentifier: 
+  autoUpdate: 0
+  chunkType: 5
+  MinimumAmoutOfObjectsToSpawn: 5
+  MaximumAmoutOfObjectsToSpawn: 10
+  allowedHeightOfPosition: 0
+  amountOfTriesPerType: 100
+  ElementsToSpawn:
+  - {fileID: 7639035824053605199, guid: d9ffcf21d7554194ca576737aa554738, type: 3}
+  - {fileID: 6894080547377188868, guid: 12ab43f211a224b4cb988858814413e8, type: 3}
+  - {fileID: 7673361100983285527, guid: 160300537ede4414b94e670642ca4a16, type: 3}
+  - {fileID: 3429340612407250196, guid: 6c6d556011caea94fb7852a3185fc1f1, type: 3}
+  - {fileID: 4314827155910604587, guid: 3014cc81a37da7440af94b5562c728b9, type: 3}

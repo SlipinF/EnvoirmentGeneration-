@@ -1,0 +1,11 @@
+
+=== Sun Apr 28 09:38:55 2019
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.timeline@0.0.0-builtin
+The following packages were updated:
+  com.unity.analytics from version 3.0.9 to 3.2.2
+  com.unity.package-manager-ui from version 2.0.0-preview.7 to 0.0.0-builtin

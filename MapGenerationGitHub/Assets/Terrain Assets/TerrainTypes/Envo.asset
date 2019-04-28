@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf91fc8b9645beb4a819d922059442ef, type: 3}
+  m_Name: Envo
+  m_EditorClassIdentifier: 
+  autoUpdate: 0
+  chunkType: 4
+  MinimumAmoutOfObjectsToSpawn: 20
+  MaximumAmoutOfObjectsToSpawn: 100
+  allowedHeightOfPosition: 0
+  amountOfTriesPerType: 100
+  ElementsToSpawn:
+  - {fileID: 9141037837423884444, guid: 3f9b86d301230b54dbad1135234ed300, type: 3}
+  - {fileID: 3971689304531009416, guid: 74e947b3ffbd5f34198eafa3b57a1b99, type: 3}
+  - {fileID: 489132546194152913, guid: 863bc0a1e7e601548a44a2211b8cef34, type: 3}
+  - {fileID: 5562876095961527711, guid: d4d74c4384a987e49820e05aa7226e33, type: 3}
+  - {fileID: 288201908665868980, guid: 23171e4e7969bcb43997aa4f829c73e0, type: 3}
+  - {fileID: 4211318546568033771, guid: 8a46402ad941cd741ba6e52a1f7562d8, type: 3}
