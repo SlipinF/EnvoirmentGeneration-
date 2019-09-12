@@ -26,17 +26,17 @@ What have i learned :
 
 # Tools and methods used during the project -
 
-• TestLink - 
+• TestLink 
 
-• Trello -
+• Trello 
 
-• Sprint method -
+• Sprint method 
 
 • Unity Collab
 
 
 
-Credits
+# Credits
 
 All the credits for procedural mesh generation go to Sebastian Lague:
 https://github.com/SebLague
