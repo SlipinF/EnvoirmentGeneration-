@@ -18,7 +18,7 @@ Link to trailer: https://www.youtube.com/watch?v=9F0MWJhgrg4
 Generation of environment on procedurally generated meshes.The solution can be used with any number of asset combination by simply 
 creating new scriptable object. [Unity]
 
-What have i learned :
+# What have i learned
 
 • Multithreaded operations in unity.
 
