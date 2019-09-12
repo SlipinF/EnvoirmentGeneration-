@@ -27,9 +27,13 @@ What have i learned :
 # Tools and methods used during the project -
 
 • TestLink - 
+
 • Trello -
+
 • Sprint method -
+
 • Unity Collab
+
 
 
 Credits
