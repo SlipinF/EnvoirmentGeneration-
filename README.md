@@ -1,5 +1,4 @@
 # EnvoirmentGeneration-
-Kacper Duda
 
 ![](Gif_Game.gif)
 
@@ -15,6 +14,14 @@ What i Learned
 • I expanded my knowledge on code optimization
 
 • Poison sampling method for object generation
+
+
+# Design-
+
+
+
+
+
 
 Credits
 
