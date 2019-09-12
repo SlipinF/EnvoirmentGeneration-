@@ -16,12 +16,13 @@ What i Learned
 • Poison sampling method for object generation
 
 
-# Design-
+# Project
 
+The game has been realised on itch.io and is avalable to download for free :
 
+Link to webside: https://443-production.itch.io/groasis 
 
-
-
+Link to trailer: https://www.youtube.com/watch?v=9F0MWJhgrg4
 
 Credits
 
