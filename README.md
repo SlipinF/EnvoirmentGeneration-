@@ -37,7 +37,7 @@ creating new scriptable object. [Unity]
 
 • Trello 
 
-• Sprint method 
+• Scrum framework
 
 • Unity Collab
 
