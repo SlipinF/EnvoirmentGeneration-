@@ -41,7 +41,9 @@ creating new scriptable object. [Unity]
 
 • Unity Collab
 
+# 2019_10_01
 
+Project has been resumed and will be regularly updated 
 
 # Credits
 
