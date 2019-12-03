@@ -38,6 +38,7 @@ creating new scriptable object. [Unity]
 # Tools and methods used during the project 
 
 • TestLink 
+
 • Trello 
 
 • Scrum framework
