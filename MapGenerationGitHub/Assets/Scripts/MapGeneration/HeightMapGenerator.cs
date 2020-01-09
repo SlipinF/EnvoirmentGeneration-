@@ -13,6 +13,7 @@ public static class HeightMapGenerator {
 		float maxValue = float.MinValue;
 
 
+		
 		for (int i = 0; i < width; i++) {
 			for (int j = 0; j < height; j++) {
 				values [i, j] *= heightCurve_threadsafe.Evaluate (values [i, j]) * settings.heightMultiplier;
@@ -36,6 +37,7 @@ public struct HeightMap {
 	public readonly float maxValue;
 
 
+	
 	public HeightMap (float[,] values, float minValue, float maxValue)
 	{
 		this.values = values;
