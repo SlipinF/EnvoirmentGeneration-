@@ -14,8 +14,6 @@ Link to trailer: https://www.youtube.com/watch?v=9F0MWJhgrg4
 
 ![](LtjLJn.png)
 
-
-
 ![](wf2yjh.png)
 
 # My Contribution to the project - Envoirment Generation
