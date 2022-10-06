@@ -2,7 +2,7 @@
 
 
 # Groasis (Survive and explore game)
-The following project is a game created during a game development course at Södertörn university. The in-depth description of the game can be found in the link below. The duration of the project was 2 months. The number of developers working on this project was 8.
+The following project is a game created during a game development course at Södertörn university. The in-depth description of the game can be found in the link below. The duration of the project was 1 month. The number of developers working on this project was 8.
 
 The game has been released on itch.io and is avalable to download for free :
 
